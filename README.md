@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In January 2014, we received a training course given by @EvanDotPro in Belgium on how to best use Zend Framework 2. This 3-day training was going deeper into the setup, configuration and usage of various modules that were build using ZF2 and how you could quickly got started with the framework.
+In January 2014, we received a training course given by [@EvanDotPro](https://github.com/EvanDotPro) in Belgium on how to best use [Zend Framework 2](http://framework.zend.com). This 3-day training was going deeper into the setup, configuration and usage of various modules that were build using ZF2 and how you could quickly got started with the framework.
 
 ## Set up
 
